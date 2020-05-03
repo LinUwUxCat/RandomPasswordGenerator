@@ -12,6 +12,7 @@ Download RandomPasswordGenerator on the [release page](https://github.com/L-i-n-
 
 ## Other way : 
 **YOU NEED PYTHON FOR THIS METHOD**
+
 Download the python file on [the release page](https://github.com/L-i-n-u-x-C-a-t/RandomPasswordGenerator/releases)
 Launch it with python 3.X.
 
